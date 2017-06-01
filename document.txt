@@ -1,0 +1,9 @@
+    Assembler haqqinda
+  Assembler sözünün m?nasi "yigmaq", "qurasdirmaq" dem?kdir.O özünd? mnemonik komandalar sistemini v? proqram m?tnl?rini   masin koduna çevirm?k üçün xüsusi proqram v? prosedurlar kitabxanasini birl?sdirir.Assembler say?sind? effektiv v? kompakt  proqramlar yaradilir.Assembler d? masin dilidir, amma burada kompüterin yerin? yetirdiyi r?q?ml?r ardicilliginin daha rahat yadda qalmasi üçün simvollar il? ?v?z olunub.Assembler proqrami vasit?sil? sistem proqramlari v? drayverl?r yaradilir.
+    C proqramlasdirma dili haqqinda 
+  Bir çox dil sistemi bu dil ?sasinda qurulub.C proqramlasdirma dili ?n çox sistem proqramlasdirma üçün istifad? olunur.Windows, Linux,Unix,Unix v? s. C dilind? yazilib.Linux ?m?liyyat sisteminin nüv?si (kernel) c dilind? yazilib.C orta s?viyy?li proqramlasdirma dilidir.C dilind? 8 simvoldan istifad? olunur.?sas proqram h?mis? main adlanir.C dilind? bütün standart operatorlar kiçik h?rfl? yazilir.Proqram gövd?si mört?riz? içind? yazilir .M?nfi c?h?ti kiçik v? böyük h?rfl?r d?qiq yazilmalidr.(f?rql?ndirilir).
+    Delphi proqramlasdirmasi
+  Delphi obyekt yönümlü proqramlasdirma dilidir v? ?sas?n Paskal dilind? proqram qurulmasi üçün istifad? olunur.Delphi mühitind? proqramlasdirma aparmaq üçün ?vv?lc? Object Pascal proqramini öyr?nm?k lazimdir (m?nfi c?h?ti).Delphinin üstün c?h?ti ondan istifad? olunmanin sad?liyidir.Müasir dövrd? Delphi ayrica proqramramlasdirma dill?rind? biri sayilir. 
+     Asp.net proqramlasdirma
+  Asp.net proqramlasdirma -Web proqramlasdirmadir.
+ 
